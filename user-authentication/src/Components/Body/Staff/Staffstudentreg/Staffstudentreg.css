@@ -1,0 +1,196 @@
+#staff-student-back-color{
+    background-image: url(./image.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.staff-student-one-two{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.staff-student-row-one input{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    padding-right: 157px;
+    border: 1px solid white;
+    background-color: transparent;
+}
+.staff-student-row-one input::placeholder{
+    color: white;
+    font-weight: bolder;
+}
+.staff-student-row-two input{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    padding-right: 157px;
+    border: 1px solid white;
+    background-color: transparent;
+}
+.staff-student-row-two input::placeholder{
+    color: white;
+    font-weight: bolder;
+}
+.staff-student-head h2{
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 3%;
+}
+.staff-student-subjects-one{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.staff-student-subjects-two{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.staff-student-subjects-one input{
+    padding: 1px 4px;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 46px;
+}
+.staff-student-subjects-two input{
+    padding: 1px 4px;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 46px;
+}
+.staff-student-subjects-one input::placeholder{
+    color: white;
+    font-weight: bolder;
+}
+.staff-student-subjects-two input::placeholder{
+    color: white;
+    font-weight: bolder;
+}
+.staff-student-subjects-one p{
+    color: white;
+    font-weight: bolder;
+    margin-top: 9px;
+}
+.staff-student-subjects-two p{
+    color: white;
+    font-weight: bolder;
+    margin-top: 9px;
+    margin-right: 28px;
+}
+.staff-studenr-cours-sem{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+#student-staff-date{
+    color: white;
+    font-weight: bolder;
+    padding-right: 194px;
+}
+#course{
+    background-color: transparent;
+    padding: 10px 10px;
+    padding-right: 212px;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid white;
+}
+#semester{
+    background-color: transparent;
+    padding: 10px 10px;
+    padding-right: 189px;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid white;
+    margin-bottom: 10px;
+}
+option{
+    color: black;
+    font-weight: bold;
+}
+.staff-student-submit button{
+    padding: 10px 332.5px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid transparent;
+    background-color: transparent;
+    background-color: #60b8d4;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid white;
+}
+.staff-student-submit button:hover{
+    letter-spacing: 1px;
+    border: 1px solid black;
+    transition: 0.8s;
+}
+.staff-student-chhose-file input{
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    padding: 10px 20px;
+    width: 732px;
+    color: white;
+    margin: auto;
+}
+.staff-student-chhose-file{
+    margin-bottom: 10px;
+}
+.staff-stud-text-color{
+    color: white;
+}
+
+
+
+
+/* BUTTON CSS */
+.button-91 {
+    color: #fff;
+    padding: 0px 15px;
+    height: 40px;
+    background-color: #38D2D2;
+    background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+    border-radius: 14px;
+    font-weight: bold;
+    font-size: 16px;
+  
+    border: 0;
+  
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

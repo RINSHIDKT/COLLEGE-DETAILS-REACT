@@ -1,0 +1,114 @@
+.admin-staff-view-color{
+    /* background-image: url(../img/image.jpg); */
+    /* background-color: rgb(84, 120, 126); */
+    background-color: rgb(70, 96, 107);
+    min-height: 100vh;
+    padding-bottom: 40px;
+    background-size: cover;
+    padding-bottom: 5%;
+}
+.staff-view-head{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    margin-top: -1%;
+    margin-bottom: 2%;
+}
+.admin-staff-view-card-1{
+    border: 1px solid white;
+    width: 15%;
+    height: 300px;
+    border-radius: 8px;
+}
+.admin-staff-view-card-1 img{
+    width: 50%;
+    display: flex;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+.admin-staff-view-card-1 h2{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 5%;
+}
+.admin-staff-view-card-1 h4{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 8%;
+}
+.admin-staff-view-delete-btn button{
+    display: block;
+}
+.admin-staff-view-btn{
+    padding: 4px 70px;
+    margin: auto;
+    margin-bottom: 3%;
+    border-radius: 8px;
+    background-color: green;
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+}
+.admin-staff-delete-btn{
+    padding: 4px 63.5px;
+    margin: auto;
+    border-radius: 8px;
+    background-color: brown;
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+}
+.admin-staff-view-btn:hover{
+    border: 1px solid black;
+    letter-spacing: 1px;
+    transition: 0.8s;
+}
+.admin-staff-delete-btn:hover{
+    border: 1px solid black;
+    letter-spacing: 1px;
+    transition: 0.8s;
+}
+.admin-staff-view-card{
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+    padding-left: 45px;
+}
+.admin-staff-view-img img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.admin-staff-view-btn-link{
+    text-decoration: none;
+}
+.admin-staff-delete-btn-link{
+    text-decoration: none;
+}
+.admin-staff-back-btn{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

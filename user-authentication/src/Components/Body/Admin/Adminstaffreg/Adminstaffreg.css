@@ -1,0 +1,85 @@
+.admin-staff-reg-color{
+    background-image: url(../img/image.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.admin-staff-reg-head{
+    text-align: center;
+    padding-top: 3%;
+    color: white;
+}
+.admin-staff-reg-head h2{
+    font-weight: bolder;
+    font-size: 35px;
+}
+.admin-staff-reg-inputfields{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 3%;
+    gap: 10px;
+}
+.admin-staff-reg-input-row-1 input{
+    display: flex;
+    padding: 10px 20px;
+    padding-right: 250px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+.admin-staff-reg-input-row-2 input{
+    display: flex;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    padding-right: 250px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+.admin-staff-reg-input-row-2 ::placeholder{
+    color: white;
+    font-weight: bold;
+}
+.admin-staff-reg-input-row-1 ::placeholder{
+    color: white;
+    font-weight: bold;
+}
+.admin-staff-reg-btn{
+    display: flex;
+    justify-content: center;
+}
+.admin-staff-reg-btn button{
+    padding: 10px 426px;
+    background-color: #60b8d4;
+    border: 1px solid white;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 3%;
+}
+.admin-staff-reg-btn button:hover{
+    letter-spacing: 1px;
+    transition: 0.8s;
+    border: 1px solid black;
+}
+.admin-staff-reg-input-admin-name{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.admin-staff-reg-input-admin-name input{
+    padding: 10px 20px;
+    padding-right: 585px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+.admin-staff-reg-input-admin-name ::placeholder{
+    color: white;
+    font-weight: bold;
+}
+#adminstaffreg-input{
+    padding-right: 157.4%;
+}
+
+

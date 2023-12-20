@@ -1,0 +1,79 @@
+.staff-edit-page-bg{
+    background-image: url(../img/image.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.staff-edit-head{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.staff-edit-head h2{
+    font-weight: bolder;
+    color: white;
+}
+.staff-edit-input-one input{
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    padding-right: 250px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+.staff-edit-input-one ::placeholder{
+    color: white;
+    font-weight: bolder;
+}
+.staff-edit-input-two ::placeholder{
+    color: white;
+    font-weight: bolder;
+}
+.staff-edit-input-two input{
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    padding-right: 250px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+.staff-edit-inputfields{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.staff-edit-input-img{
+    text-align: center;
+}
+.staff-edit-input input{
+    display: block;
+    margin: auto;
+    border: 1px solid white;
+    padding: 8px 70px;
+    color: white;
+    margin-bottom: 10px;
+    height: 46.1px;
+}
+.staff-edit-input-img img{
+    margin-bottom: 10px;
+    width: 10%;
+    border: 2px solid white;
+    height: 150px;
+}
+.staff-edit-submit-btn{
+    text-align: center;
+}
+.staff-edit-submit-btn button{
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px 442px;
+    background-color: #60b8d4;
+    color: white;
+    font-weight: bolder;
+}
+.staff-edit-submit-btn button:hover{
+    border: 1px solid black;
+    letter-spacing: 1px;
+    transition: 0.8s;
+}

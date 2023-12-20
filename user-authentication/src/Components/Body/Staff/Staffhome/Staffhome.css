@@ -1,0 +1,38 @@
+.color{
+    color: black;
+}
+#staff-home-color{
+    background-image: url(./image.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.admin-page-head h3{
+    font-weight: bolder;
+    color: white;
+    margin-top: 4px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: -3%;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+

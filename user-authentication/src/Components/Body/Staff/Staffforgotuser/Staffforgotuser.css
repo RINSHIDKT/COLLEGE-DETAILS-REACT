@@ -1,0 +1,24 @@
+.staff-register-phone input{
+    padding: 7px 42px;
+    margin-bottom: 10px;
+}
+.staff-register-password input{
+    padding: 7px 42px;
+    margin-bottom: 10px;
+}
+#staff-btn-phone{
+    padding: 7px 74px;
+    border: 1px solid transparent;
+    background-color: #60b8d4;
+    color: white;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+#staff-btn-phone:hover{
+    letter-spacing: 1px;
+    border: 1px solid black;
+    transition: 0.8s;
+}
+.display-forgot-username p{
+    font-weight: bolder;
+}

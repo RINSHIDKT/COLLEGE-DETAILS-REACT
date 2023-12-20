@@ -1,0 +1,40 @@
+#staff-edit-student-back-color{
+    background-image: url(./image.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+.staff-edit-student-head h2{
+    text-align: center;
+    padding-top: 0.5%;
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 1%;
+}
+.staff-edit-student-submit button{
+    padding: 10px 350px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border: 1px solid transparent;
+    background-color: transparent;
+    background-color: #60b8d4;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid white;
+}
+.staff-edit-student-submit button:hover{
+    letter-spacing: 1px;
+    border: 1px solid black;
+    transition: 0.8s;
+}
+.staff-student-edit-img img{
+    width: 10%;
+    border: 2px solid white;
+    height: 150px;
+}
+.staff-student-edit-img{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}

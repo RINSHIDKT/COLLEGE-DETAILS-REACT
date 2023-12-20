@@ -1,0 +1,83 @@
+.student-full-view-color{
+    background-image: url(./image.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.student-full-view-head{
+    text-align: center;
+    padding-top: -2%;
+}
+.student-full-view-head h2{
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 3%;
+}
+.student-full-view-card{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    border: 2px solid white;
+    width: 70%;
+    height: 538px;
+    border-radius: 8px;
+    margin: auto;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.16),rgba(0, 0, 0, 0.16));
+}
+.student-full-view-img img{
+    width: 70%;
+    border-radius: 100px;
+    border: 2px solid white;
+    margin-top: 76%;
+    margin-bottom: 20%;
+}
+.student-full-view-head-id{
+    text-align: center;
+    margin-left: -58%;
+}
+.student-full-view-head-id h1{
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.student-full-view-head-id h2{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.student-full-view-details h3{
+    color: white;
+    margin-top: -6%;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 6%;
+}
+.student-full-view-details{
+    margin-top: 6%;
+    margin-right: -8%;
+}
+.details-flex{
+    display: flex;
+    gap: 20px;
+}
+.details-flex p{
+    font-weight: lighter;
+}
+.student-full-view-img-only img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: -30%;
+}
+.student-full-view-edit{
+    padding: 4px 50px;
+    border-radius: 8px;
+    border: 1px solid white;
+    background-color: #287f9a;
+    color: white;
+    font-weight: bolder;
+}
+.student-full-view-edit:hover{
+    border: 1px solid black;
+    letter-spacing: 1px;
+    transition: 0.8s;
+}
